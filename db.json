@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "todo": "Learn node.js",
+      "status": false
+    },
+    {
+      "todo": "Learn html",
+      "status": false
+    }
+  ]
+}
